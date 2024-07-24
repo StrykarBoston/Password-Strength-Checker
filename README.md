@@ -1,9 +1,9 @@
 # Password-Strength-Checker
 
 
-**Overview:**
-This Python tool checks the strength of passwords. 
-It offers an easy-to-understand method of determining how secure your passwords are by calculating a password's strength depending on its length and complexity.
+# **Overview:**
+# This Python tool checks the strength of passwords. 
+# It offers an easy-to-understand method of determining how secure your passwords are by calculating a password's strength depending on its length and complexity.
 
 
 **Features:**
